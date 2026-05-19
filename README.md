@@ -1,134 +1,148 @@
-# 👋 Hi there! I'm Muhammad Furqan  
-
-🚀 **AI Engineer | Cloud NLP Enthusiast | Kaggle Notebook Master**  
-🌍 Passionate about **LLMs, RAG Systems, and Scalable AI Solutions**  
-☁️ Exploring **Cloud AI, Generative Agents, and Voice-based Systems**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=immuhammadfurqan&label=Profile%20Views&color=blueviolet&style=flat" alt="immuhammadfurqan" /> </p>
-
----
-
-### 👨‍💻 Coding in Action  
 <p align="center">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Muhammad%20Furqan&fontSize=48&fontColor=ffffff&color=0:0b1220,100:0ea5e9" alt="Muhammad Furqan" width="1440">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+RAG+%7C+Voice+AI+Agents;Building+LLM+systems+that+ship+to+production;Kaggle+Notebooks+Master+%C2%B7+Top+150+globally" alt="typing subtitle">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/immuhammadfurqan/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/muhammadfurqan0"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" /></a>
+  <a href="https://iammuhammadfurqan.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
+  <a href="mailto:muhammadfurqan0100@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center"><em>Lahore, Pakistan · Full-Stack AI Engineer @ Sensus DWC LLC (Dubai)</em></p>
+
 ---
 
-## 💫 About Me  
+## About
 
-I'm Muhammad Furqan — an **AI Engineer** focused on building **LLM-based, scalable applications** that connect research to real-world deployment.  
-My work combines **NLP, RAG pipelines, FastAPI, LangChain, Pinecone**, and **AWS** to create intelligent systems for **education, automation, and technical diagnostics**.  
+I'm an AI Engineer with ~2 years of focused experience building **RAG systems, LLM applications, and Voice AI agents** for real clients across automotive, education, defense, and enterprise SaaS.
 
-Currently working on:  
-- 🤖 **AI Voice APIs** & **Multi-agent Architectures**  
-- 📚 **Educational AI** with personalized learning paths  
-- ⚙️ **Cloud-native AI solutions** deployed on AWS  
+My work bridges research and deployment — I build things that run in production, not just demos. I specialize in:
+
+- 🧠 **RAG & LLM Systems** — semantic retrieval, multi-tenant architectures, prompt engineering at scale
+- 🎙 **Voice AI Agents** — real-time conversational agents using ElevenLabs, Deepgram, and custom telephony
+- ⚙️ **Backend & APIs** — FastAPI, Django REST, Node.js, AWS, Docker
+
+Currently applying to the **LUMS MS AI program (Fall 2026)** and open to **part-time freelance / consulting engagements**.
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
+      <h3>🎙 Nova & Arissa — Voice AI Agents</h3>
+      <p><strong>Client: Proton Malaysia</strong><br>
+      Two production-deployed Voice AI agents handling real-time inbound and outbound customer conversations. Built on a custom telephony stack with ElevenLabs TTS, Deepgram STT, and Claude for reasoning. Handles multi-turn context, session memory, and escalation logic.</p>
+      <img src="https://img.shields.io/badge/Production-Live-43B581?style=flat-square" />
+      <img src="https://img.shields.io/badge/Stack-ElevenLabs%20%7C%20Deepgram%20%7C%20Claude-blueviolet?style=flat-square" />
+    </td>
+    <td width="50%">
       <h3>🎙 <a href="https://www.podlogix.co/UserLogin">ParadeDeck AI</a></h3>
-      <p>Podcast-native AI platform that transcribes, embeds, and semantically searches military podcasts. Built using Deepgram, Pinecone, and LLMs for content discovery and RAG-based chat.</p>
-      <a href="https://www.podlogix.co/UserLogin" target="_blank">
+      <p>Podcast-native RAG platform for military intelligence content. Transcribes, embeds, and semantically searches 100+ hours of military podcasts. Built with Deepgram, Pinecone, and LLMs — enabling sub-second semantic discovery across a large content library.</p>
+      <a href="https://www.podlogix.co/UserLogin">
         <img src="https://img.shields.io/badge/Live_Demo-43B581?style=for-the-badge&logo=react&logoColor=white" />
       </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💬 RMA Motors — WhatsApp AI</h3>
+      <p>Outbound trade-in campaign agent for an automotive dealership. Manages full conversation flows — qualification, objection handling, appointment booking — over WhatsApp via a multi-agent architecture with session memory and campaign-specific guardrails.</p>
+      <img src="https://img.shields.io/badge/Stack-Claude%20%7C%20Node.js%20%7C%20WhatsApp-25D366?style=flat-square" />
     </td>
     <td width="50%">
       <h3>🛠 <a href="https://aurelia.soltec.org/">Aurelia</a></h3>
-      <p>AI-powered technical assistant for crane diagnostics. Handles error codes, manuals, and troubleshooting for brands like EFFER, PM, & HIAB in under 500 characters.</p>
-      <a href="https://aurelia.soltec.org/" target="_blank">
+      <p>AI diagnostics assistant for industrial crane operators. Processes error codes and troubleshooting manuals for EFFER, PM, and HIAB equipment — delivering concise, accurate guidance in under 500 chars for field technicians under time pressure.</p>
+      <a href="https://aurelia.soltec.org/">
         <img src="https://img.shields.io/badge/Live_Demo-43B581?style=for-the-badge&logo=react&logoColor=white" />
       </a>
     </td>
   </tr>
   <tr>
+    <td width="50%">
+      <h3>🧠 <a href="https://brain-assistance-fe.vercel.app/">Ekko AI</a></h3>
+      <p>Enterprise multi-tenant SaaS for AI-assisted knowledge work. Features subscription management, analytics dashboard, prompt template library, and Firebase push notifications. Built on Django REST + LangChain — designed for team-scale deployment.</p>
+      <a href="https://brain-assistance-fe.vercel.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-43B581?style=for-the-badge&logo=react&logoColor=white" />
+      </a>
+    </td>
     <td width="50%">
       <h3>📘 <a href="https://math-gen-fe.vercel.app/">MathWiz</a></h3>
-      <p>AI learning platform that generates grade-wise math questions, provides adaptive quizzes, and features badge-based gamification using LLMs + AWS + FastAPI.</p>
-      <a href="https://math-gen-fe.vercel.app/" target="_blank">
+      <p>Adaptive EdTech platform that generates grade-appropriate math questions, runs personalized quizzes, and gamifies progress with badges. LLM-generated content served via FastAPI + AWS — designed to reduce teacher workload for content creation.</p>
+      <a href="https://math-gen-fe.vercel.app/">
         <img src="https://img.shields.io/badge/Live_Demo-43B581?style=for-the-badge&logo=react&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🧠 <a href="https://brain-assistance-fe.vercel.app/">Ekko AI - Brain Assistance</a></h3>
-      <p>Enterprise multi-tenant SaaS platform with AI-powered prompt templates, subscription management, analytics dashboard, and Firebase push notifications using Django REST + LangChain.</p>
-      <a href="https://brain-assistance-fe.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-43B581?style=for-the-badge&logo=react&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🃏 <a href="https://github.com/immuhammadfurqan/Card-Detection-API">YOLO Card Detection API</a></h3>
-      <p>Production-ready FastAPI wrapper for robust playing card detection using YOLOv8 with multi-scale detection, image preprocessing, and batch processing capabilities.</p>
-      <a href="http://34.162.87.238:8501/" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-43B581?style=for-the-badge&logo=react&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🙏 <a href="https://github.com/immuhammadfurqan/Salah-GPT">Salah GPT</a></h3>
-      <p>Islamic AI assistant grounded in Quran & Hadith for contextual Q&A. A RAG-based system for accurate and context-aware religious guidance.</p>
-      <a href="https://github.com/immuhammadfurqan/Salah-GPT" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub_Repo-333?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
 </table>
 
----
+### Other Production Work
 
-## 🧠 Other Notable Projects  
-
-- 🎓 **Akademus AI** – Document-based educational RAG platform with flashcards & quizzes.  
-- 🧾 **Requirement GPT** – Structured document generator powered by LLMs for requirement analysis.  
-- 🔊 **AI Voice API Platform** – Omnichannel conversational AI system with automated telephony.  
-
----
-
-## 🧩 Tech Stack  
-
-**Programming:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**AI & ML:**  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFCA28.svg?style=for-the-badge&logo=huggingface&logoColor=black) ![LangGraph](https://img.shields.io/badge/LangGraph-%236B5B95.svg?style=for-the-badge&logo=graphql&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-%2300FFFF.svg?style=for-the-badge&logo=yolo&logoColor=black)
-
-**LLMs & Tools:**  
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-%23FFD700.svg?style=for-the-badge&logo=anthropic&logoColor=black) ![Gemini](https://img.shields.io/badge/Gemini-%230096FF.svg?style=for-the-badge&logo=google&logoColor=white)
-
-**Backend & APIs:**  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-%23ff1709.svg?style=for-the-badge&logo=django&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-%2300B8D9.svg?style=for-the-badge&logo=pinecone&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-%23111111.svg?style=for-the-badge) ![Qdrant](https://img.shields.io/badge/Qdrant-%23FF5722.svg?style=for-the-badge&logo=vectorworks&logoColor=white)
-
-**Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-**Audio & Speech:**  
-![Deepgram](https://img.shields.io/badge/Deepgram-%23111111.svg?style=for-the-badge&logo=deezer&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-%23A3A3A3.svg?style=for-the-badge) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-%23FF7F00.svg?style=for-the-badge&logo=elevenlabs&logoColor=white)
-
-**Dev Tools:**  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-%23222222.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+| Project | What it does |
+|---|---|
+| 🎓 **Akademus AI** | Document-based RAG platform with auto-generated flashcards & quizzes for students |
+| 🙏 **Salah GPT** | Islamic Q&A assistant grounded in Quran & Hadith via RAG — accurate, citation-aware |
+| 🧾 **Requirement GPT** | LLM-powered structured SRS document generator for software teams |
+| 🃏 **YOLO Card Detection API** | Production FastAPI wrapper for YOLOv8 playing card detection with batch processing |
+| 🔊 **AI Voice API Platform** | Omnichannel conversational AI system with automated telephony infrastructure |
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🧩 Core Stack
 
-- 🥇 **Kaggle Notebooks Master** — Top 150 globally with **1x Gold, 5x Silver, & 15x Bronze** medals.
-- 🌍 **LinkedIn Top Voice (AI)** — Recognized for simplifying complex AI concepts for a broad audience.
-- 💻 **250+ LeetCode Problems Solved** — Strong foundation in Data Structures & Algorithms.
-- 🎖 **Top Performer @ Knowledge Streams** — Achieved a 94% evaluation score during my AI internship.
-- 🎓 **IBM Certified Data Scientist** — Professional certification from IBM.
+**AI / LLM**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6B5B95?style=for-the-badge&logo=graphql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FFD700?style=for-the-badge&logo=anthropic&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Backend & Infra**  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+
+**Dev Tools**  
+![Claude Code](https://img.shields.io/badge/Claude_Code-FFD700?style=for-the-badge&logo=anthropic&logoColor=black)
+![Cursor](https://img.shields.io/badge/Cursor-222222?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**Databases & Vector Stores**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-00B8D9?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Voice & Audio**  
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-FF7F00?style=for-the-badge)
+![Deepgram](https://img.shields.io/badge/Deepgram-111111?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/Whisper-A3A3A3?style=for-the-badge)
+![Retell AI](https://img.shields.io/badge/Retell_AI-6C47FF?style=for-the-badge)
+![VAPI](https://img.shields.io/badge/VAPI-000000?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Insights  
+## 🏆 Recognition
+
+- 🥇 **Kaggle Notebooks Master** — Top 150 globally · 1x Gold, 5x Silver, 15x Bronze medals
+- 🌍 **LinkedIn Top Voice (AI)** — Recognized for making complex AI concepts accessible
+- 💻 **250+ LeetCode Problems** — Strong DSA foundation
+- 🎖 **Top Performer @ Knowledge Streams** — 94% evaluation score during AI internship
+- 🎓 **IBM Certified Data Scientist**
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=immuhammadfurqan&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="160" />
@@ -141,41 +155,23 @@ Currently working on:
 
 ---
 
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=immuhammadfurqan&theme=flat&no-frame=true&margin-w=10" />
-</p>
+## 🔭 Currently
+
+- 🛠 Building: Multi-agent WhatsApp AI systems & Voice AI pipelines
+- 📚 Reading: *AI Engineering* by Chip Huyen · *Designing ML Systems* by Chip Huyen
+- 🎓 Applying: LUMS MS AI — Fall 2026
+- 💼 Open to: AI/ML roles at companies · Consulting engagements
 
 ---
 
-### 📈 GitHub Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=immuhammadfurqan&theme=github-light" />
-</p>
+## 🤝 Work With Me
+
+I'm always open to interesting conversations — whether you're building something with LLMs, exploring Voice AI, or just want to talk shop about RAG systems and AI agents.
+
+- 💼 **Roles** — Open to AI/ML engineering roles at companies working on meaningful problems
+- 🎓 **Research** — Interested in collaborating on NLP, RAG, or conversational AI research
+- 📬 **Get in touch** — [muhammadfurqan0100@gmail.com](mailto:muhammadfurqan0100@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/immuhammadfurqan/)
 
 ---
 
-### 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-### 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/immuhammadfurqan/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadfurqan0100@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/muhammadfurqan0)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://iammuhammadfurqan.github.io/portfolio/)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=immuhammadfurqan&icon=2&color=6)](https://visitcount.itsvg.in)
-
-## ☕ Support My Work  
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/imuhammadfurqan)
-
----
-
-<!-- Proudly created with ❤️ by Muhammad Furqan -->
+<p align="center"><em>Building AI systems that work in production · RAG · Voice AI · LLM Applications</em></p>
