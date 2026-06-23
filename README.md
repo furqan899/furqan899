@@ -177,6 +177,7 @@ Currently applying to the **LUMS MS AI program (Fall 2026)** and open to **AI/ML
 
 - 🛠 Building: Outbound Voice AI calling agents & multi-agent WhatsApp systems
 - 📚 Reading: *AI Engineering* by Chip Huyen
+- 🎓 Applying: LUMS MS AI — Fall 2026
 - 💼 Open to: AI/ML engineering roles · Research collaborations
 
 ---
@@ -186,10 +187,10 @@ Currently applying to the **LUMS MS AI program (Fall 2026)** and open to **AI/ML
 | Repository | Stars | Contribution |
 |---|---|---|
 | [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | ![](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=flat-square) | Multiple merged PRs — NVIDIA STT bug fix + memory service reliability fix in this real-time Voice AI framework |
-| [mem0ai/mem0](https://github.com/mem0ai/mem0) | ![](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square) | Semantic entity typing with sync/async parity in the entity store; reviewed & approved by maintainers |
+| [mem0ai/mem0](https://github.com/mem0ai/mem0) | ![](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square) | PR #5573 — Semantic entity typing with sync/async parity in the entity store; reviewed & approved by maintainers |
 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | ![](https://img.shields.io/github/stars/github/awesome-copilot?style=flat-square) | Merged contribution |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | ![](https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=flat-square) | Pinecone vector database skill with hybrid search & scientific embedding models |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ![](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square) | Pinecone RAG skill adapted for the Hermes agent schema |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | ![](https://img.shields.io/github/stars/k-dense-ai/scientific-agent-skills?style=flat-square) | PR #173 — Pinecone vector database skill with hybrid search & scientific embedding models |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ![](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square) | PR #37959 — Pinecone RAG skill adapted for the Hermes agent schema |
 
 ---
 
