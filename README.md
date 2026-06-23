@@ -27,7 +27,6 @@ My work bridges research and deployment — I build things that run in productio
 - 🎙 **Voice AI Agents** — real-time conversational agents using ElevenLabs, VAPI, Retell AI, Deepgram, and Twilio
 - ⚙️ **Backend & APIs** — FastAPI, Django REST, Node.js, AWS, Docker
 
-Currently applying to the **LUMS MS AI program (Fall 2026)** and open to **AI/ML roles and research collaborations**.
 
 ---
 
@@ -177,7 +176,6 @@ Currently applying to the **LUMS MS AI program (Fall 2026)** and open to **AI/ML
 
 - 🛠 Building: Outbound Voice AI calling agents & multi-agent WhatsApp systems
 - 📚 Reading: *AI Engineering* by Chip Huyen
-- 🎓 Applying: LUMS MS AI — Fall 2026
 - 💼 Open to: AI/ML engineering roles · Research collaborations
 
 ---
