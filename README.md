@@ -19,15 +19,13 @@
 
 ## About
 
-I'm an AI Engineer with ~2 years of focused experience building **RAG systems, LLM applications, and Voice AI agents** for real clients across automotive, education, defense, and enterprise SaaS.
+I'm an AI Engineer with 2+ years of focused experience building **RAG systems, LLM applications, and Voice AI agents** for real clients across automotive, education, defense, and enterprise SaaS.
 
 My work bridges research and deployment — I build things that run in production, not just demos. I specialize in:
 
 - 🧠 **RAG & LLM Systems** — semantic retrieval, hybrid search, multi-tenant architectures, prompt engineering at scale
 - 🎙 **Voice AI Agents** — real-time conversational agents using ElevenLabs, VAPI, Retell AI, Deepgram, and Twilio
 - ⚙️ **Backend & APIs** — FastAPI, Django REST, Node.js, AWS, Docker
-
-Currently applying to the **LUMS MS AI program (Fall 2026)** and open to **AI/ML roles and research collaborations**.
 
 ---
 
@@ -177,7 +175,6 @@ Currently applying to the **LUMS MS AI program (Fall 2026)** and open to **AI/ML
 
 - 🛠 Building: Outbound Voice AI calling agents & multi-agent WhatsApp systems
 - 📚 Reading: *AI Engineering* by Chip Huyen
-- 🎓 Applying: LUMS MS AI — Fall 2026
 - 💼 Open to: AI/ML engineering roles · Research collaborations
 
 ---
