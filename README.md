@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+RAG+%7C+Voice+AI+Agents;Building+[...]" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+RAG+%7C+Voice+AI+Agents;Building+LLM+systems+that+ship+to+production;Kaggle+Notebooks+Master+%C2%B7+Top+150+globally" alt="typing subtitle">
 </p>
 
 <p align="center">
@@ -27,6 +27,7 @@ My work bridges research and deployment — I build things that run in productio
 - 🎙 **Voice AI Agents** — real-time conversational agents using ElevenLabs, VAPI, Retell AI, Deepgram, and Twilio
 - ⚙️ **Backend & APIs** — FastAPI, Django REST, Node.js, AWS, Docker
 
+Currently applying to the **LUMS MS AI program (Fall 2026)** and open to **AI/ML roles and research collaborations**.
 
 ---
 
@@ -37,13 +38,13 @@ My work bridges research and deployment — I build things that run in productio
     <td width="50%">
       <h3>🎙 Nova & Arissa — Voice AI Agents</h3>
       <p><strong>Client: Proton Malaysia</strong><br>
-      Two production-deployed Voice AI agents for Malaysia's national automotive brand. Nova handles EV sales conversations — customer discovery, model Q&A, and test drive booking. Arissa manage[...]
+      Two production-deployed Voice AI agents for Malaysia's national automotive brand. Nova handles EV sales conversations — customer discovery, model Q&A, and test drive booking. Arissa manages service appointment scheduling with intent detection and warm voice UX. Built on ElevenLabs TTS, Deepgram STT, and Claude for reasoning across multiple Proton centers.</p>
       <img src="https://img.shields.io/badge/Production-Live-43B581?style=flat-square" />
       <img src="https://img.shields.io/badge/Stack-ElevenLabs%20%7C%20Deepgram%20%7C%20Claude-blueviolet?style=flat-square" />
     </td>
     <td width="50%">
       <h3>🎙 <a href="https://www.podlogix.co/UserLogin">ParadeDeck AI</a></h3>
-      <p>Podcast-native RAG platform for military intelligence content. Transcribes, embeds, and semantically searches 100+ hours of military podcasts. Built with Deepgram, Pinecone, and LLMs — [...]
+      <p>Podcast-native RAG platform for military intelligence content. Transcribes, embeds, and semantically searches 100+ hours of military podcasts. Built with Deepgram, Pinecone, and LLMs — enabling sub-second semantic discovery across a large audio content library.</p>
       <a href="https://www.podlogix.co/UserLogin">
         <img src="https://img.shields.io/badge/Live_Demo-43B581?style=for-the-badge&logo=react&logoColor=white" />
       </a>
@@ -52,12 +53,12 @@ My work bridges research and deployment — I build things that run in productio
   <tr>
     <td width="50%">
       <h3>💬 RMA Motors — WhatsApp AI Agent</h3>
-      <p>Outbound trade-in campaign agent for an automotive dealership. Runs full conversation flows — qualification, objection handling, appointment booking — over WhatsApp via a multi-agent [...]
+      <p>Outbound trade-in campaign agent for an automotive dealership. Runs full conversation flows — qualification, objection handling, appointment booking — over WhatsApp via a multi-agent architecture with session memory, pgvector semantic search, and campaign-specific guardrails.</p>
       <img src="https://img.shields.io/badge/Stack-Claude%20%7C%20Node.js%20%7C%20pgvector-25D366?style=flat-square" />
     </td>
     <td width="50%">
       <h3>🛠 <a href="https://aurelia.soltec.org/">Aurelia</a></h3>
-      <p>AI diagnostics assistant for an industrial crane services company. Processes error codes and troubleshooting manuals for EFFER, PM, and HIAB equipment — delivering concise, accurate gui[...]
+      <p>AI diagnostics assistant for an industrial crane services company. Processes error codes and troubleshooting manuals for EFFER, PM, and HIAB equipment — delivering concise, accurate guidance in under 500 chars for field technicians under time pressure.</p>
       <a href="https://aurelia.soltec.org/">
         <img src="https://img.shields.io/badge/Live_Demo-43B581?style=for-the-badge&logo=react&logoColor=white" />
       </a>
@@ -66,14 +67,14 @@ My work bridges research and deployment — I build things that run in productio
   <tr>
     <td width="50%">
       <h3>🧠 <a href="https://brain-assistance-fe.vercel.app/">Ekko AI</a></h3>
-      <p>Enterprise multi-tenant SaaS for AI-assisted knowledge work. Features subscription management, analytics dashboard, prompt template library, and Firebase push notifications. Built on Djan[...]
+      <p>Enterprise multi-tenant SaaS for AI-assisted knowledge work. Features subscription management, analytics dashboard, prompt template library, and Firebase push notifications. Built on Django REST + LangChain — designed for team-scale deployment.</p>
       <a href="https://brain-assistance-fe.vercel.app/">
         <img src="https://img.shields.io/badge/Live_Demo-43B581?style=for-the-badge&logo=react&logoColor=white" />
       </a>
     </td>
     <td width="50%">
       <h3>📘 <a href="https://math-gen-fe.vercel.app/">MathWiz</a></h3>
-      <p>Adaptive EdTech platform that generates grade-appropriate math questions, runs personalized quizzes, and gamifies progress with badges. LLM-generated content served via FastAPI + AWS — [...]
+      <p>Adaptive EdTech platform that generates grade-appropriate math questions, runs personalized quizzes, and gamifies progress with badges. LLM-generated content served via FastAPI + AWS — designed to reduce teacher workload for content creation.</p>
       <a href="https://math-gen-fe.vercel.app/">
         <img src="https://img.shields.io/badge/Live_Demo-43B581?style=for-the-badge&logo=react&logoColor=white" />
       </a>
@@ -176,40 +177,41 @@ My work bridges research and deployment — I build things that run in productio
 
 - 🛠 Building: Outbound Voice AI calling agents & multi-agent WhatsApp systems
 - 📚 Reading: *AI Engineering* by Chip Huyen
+- 🎓 Applying: LUMS MS AI — Fall 2026
 - 💼 Open to: AI/ML engineering roles · Research collaborations
 
 ---
 
 ## 🌍 Open Source Contributions
 
-Repository | PR | State | Merged / Closed Date | One-line summary
----|---:|:---:|:---:|---
-mem0ai/mem0 | [#5717](https://github.com/mem0ai/mem0/pull/5717) | Merged | 2026-06-24 | Log reranker failures instead of silently swallowing them.
-mem0ai/mem0 | [#5715](https://github.com/mem0ai/mem0/pull/5715) | Merged | 2026-06-25 | Score HuggingFace reranker with sigmoid instead of min-max.
-mem0ai/mem0 | [#5573](https://github.com/mem0ai/mem0/pull/5573) | Open | — | Add spaCy semantic entity types to the entity store (feature).
-infiniflow/ragflow | [#16332](https://github.com/infiniflow/ragflow/pull/16332) | Merged | 2026-06-25 | Fix DeepL component validation and error dropping.
-infiniflow/ragflow | [#16330](https://github.com/infiniflow/ragflow/pull/16330) | Merged | 2026-06-25 | Fix PubMed tool author parsing (no longer returns "Unknown Authors").
-infiniflow/ragflow | [#16331](https://github.com/infiniflow/ragflow/pull/16331) | Closed (unmerged) | — | Fix Switch crashing when upstream variable is None (closed).
-deepset-ai/haystack | [#11755](https://github.com/deepset-ai/haystack/pull/11755) | Merged | 2026-06-25 | Handle unknown tool names in human_in_the_loop confirmation strategies.
-deepset-ai/haystack | [#11758](https://github.com/deepset-ai/haystack/pull/11758) | Open | — | Prevent silent clobbering of tool execution decisions on name collisions.
-deepset-ai/haystack | [#11760](https://github.com/deepset-ai/haystack/pull/11760) | Open | — | Support negative indices in _ToolsetWrapper.__getitem__ (regression fix).
-pipecat-ai/pipecat | [#4843](https://github.com/pipecat-ai/pipecat/pull/4843) | Merged | 2026-06-23 | Fix Mem0MemoryService injecting empty memory prompt when none found.
-pipecat-ai/pipecat | [#4840](https://github.com/pipecat-ai/pipecat/pull/4840) | Merged | 2026-06-23 | Fix WorkerBus dropping future messages to a subscriber after a hook raises.
-pipecat-ai/pipecat | [#4718](https://github.com/pipecat-ai/pipecat/pull/4718) | Merged | 2026-06-17 | Add missing defaults for NvidiaSegmentedSTTService diarization settings.
-pipecat-ai/pipecat | [#4841](https://github.com/pipecat-ai/pipecat/pull/4841) | Open | — | Fix bus adapters dropping ToolsSchema.custom_tools during serialization.
-pipecat-ai/pipecat | [#4720](https://github.com/pipecat-ai/pipecat/pull/4720) | Open | — | Fix GladiaSTTService ignoring runtime settings updates.
-pipecat-ai/pipecat | [#4738](https://github.com/pipecat-ai/pipecat/pull/4738) | Open | — | Fix DeepgramSageMakerSTTService ignoring runtime settings updates.
-pipecat-ai/pipecat | [#4740](https://github.com/pipecat-ai/pipecat/pull/4740) | Open | — | Fix DeepgramSageMakerTTSService ignoring runtime settings updates.
-pipecat-ai/pipecat | [#4745](https://github.com/pipecat-ai/pipecat/pull/4745) | Open | — | Fix GeminiLiveLLMService ignoring runtime settings updates.
-NousResearch/hermes-agent | [#37959](https://github.com/NousResearch/hermes-agent/pull/37959) | Open | — | Add Pinecone skill for agent RAG and memory (feature).
-NousResearch/hermes-agent | [#46519](https://github.com/NousResearch/hermes-agent/pull/46519) | Open | — | Strip duplicate description prefix + fix over-limit descriptions (bugfix).
-NousResearch/hermes-agent | [#46535](https://github.com/NousResearch/hermes-agent/pull/46535) | Open | — | Fallback providers when OAuth token refresh returns 429 (cron bugfix).
-arc53/DocsGPT | [#2560](https://github.com/arc53/DocsGPT/pull/2560) | Open | — | Make ElevenLabs voice id configurable.
-arc53/DocsGPT | [#2565](https://github.com/arc53/DocsGPT/pull/2565) | Open | — | Replace print() with logger in encryption.py and classic_rag.py.
-arc53/DocsGPT | [#2566](https://github.com/arc53/DocsGPT/pull/2566) | Open | — | Warn when STT diarization requested but provider doesn't support it.
-arc53/DocsGPT | [#2567](https://github.com/arc53/DocsGPT/pull/2567) | Open | — | Migrate AnthropicLLM from deprecated completions API to messages API.
-github/awesome-copilot | [#1939](https://github.com/github/awesome-copilot/pull/1939) | Merged | 2026-06-12 | Add Pinecone RAG skill for RAG pipelines and agent memory.
-K-Dense-AI/scientific-agent-skills | [#173](https://github.com/K-Dense-AI/scientific-agent-skills/pull/173) | Open | — | Add Pinecone skill for scientific RAG persistence layer (feature).
+| Repository | PR | State | Date | Summary |
+|---|---:|:---:|:---:|---|
+| [mem0ai/mem0](https://github.com/mem0ai/mem0) | [#5717](https://github.com/mem0ai/mem0/pull/5717) | ✅ Merged | 2026-06-24 | Log reranker failures instead of silently swallowing them (all 5 providers) |
+| [mem0ai/mem0](https://github.com/mem0ai/mem0) | [#5715](https://github.com/mem0ai/mem0/pull/5715) | ✅ Merged | 2026-06-25 | Score HuggingFace reranker with sigmoid instead of min-max |
+| [mem0ai/mem0](https://github.com/mem0ai/mem0) | [#5573](https://github.com/mem0ai/mem0/pull/5573) | 🔄 Open | — | Add spaCy semantic entity types to the entity store |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | [#16332](https://github.com/infiniflow/ragflow/pull/16332) | ✅ Merged | 2026-06-25 | Fix DeepL component validation and silent error dropping |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | [#16330](https://github.com/infiniflow/ragflow/pull/16330) | ✅ Merged | 2026-06-25 | Fix PubMed tool author parsing (no longer returns "Unknown Authors") |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | [#16331](https://github.com/infiniflow/ragflow/pull/16331) | 🔄 Open | — | Fix Switch crashing when upstream variable is None |
+| [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | [#11755](https://github.com/deepset-ai/haystack/pull/11755) | ✅ Merged | 2026-06-25 | Handle unknown tool names in `human_in_the_loop` confirmation strategies |
+| [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | [#11758](https://github.com/deepset-ai/haystack/pull/11758) | 🔄 Open | — | Prevent silent clobbering of tool execution decisions on name collisions |
+| [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | [#11760](https://github.com/deepset-ai/haystack/pull/11760) | 🔄 Open | — | Support negative indices in `_ToolsetWrapper.__getitem__` |
+| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4843](https://github.com/pipecat-ai/pipecat/pull/4843) | ✅ Merged | 2026-06-23 | Fix Mem0MemoryService injecting empty memory prompt when none found |
+| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4840](https://github.com/pipecat-ai/pipecat/pull/4840) | ✅ Merged | 2026-06-23 | Fix WorkerBus dropping future messages to a subscriber after a hook raises |
+| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4718](https://github.com/pipecat-ai/pipecat/pull/4718) | ✅ Merged | 2026-06-17 | Add missing defaults for NvidiaSegmentedSTTService diarization settings |
+| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4841](https://github.com/pipecat-ai/pipecat/pull/4841) | 🔄 Open | — | Fix bus adapters dropping ToolsSchema.custom_tools during serialization |
+| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4720](https://github.com/pipecat-ai/pipecat/pull/4720) | 🔄 Open | — | Fix GladiaSTTService ignoring runtime settings updates |
+| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4738](https://github.com/pipecat-ai/pipecat/pull/4738) | 🔄 Open | — | Fix DeepgramSageMakerSTTService ignoring runtime settings updates |
+| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4740](https://github.com/pipecat-ai/pipecat/pull/4740) | 🔄 Open | — | Fix DeepgramSageMakerTTSService ignoring runtime settings updates |
+| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4745](https://github.com/pipecat-ai/pipecat/pull/4745) | 🔄 Open | — | Fix GeminiLiveLLMService ignoring runtime settings updates |
+| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | [#2567](https://github.com/arc53/DocsGPT/pull/2567) | 🔄 Open | — | Migrate AnthropicLLM from deprecated completions API to messages API |
+| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | [#2566](https://github.com/arc53/DocsGPT/pull/2566) | 🔄 Open | — | Warn when STT diarization requested but provider doesn't support it |
+| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | [#2565](https://github.com/arc53/DocsGPT/pull/2565) | 🔄 Open | — | Replace print() with logger in encryption.py and classic_rag.py |
+| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | [#2560](https://github.com/arc53/DocsGPT/pull/2560) | 🔄 Open | — | Make ElevenLabs voice_id configurable via settings |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [#46535](https://github.com/NousResearch/hermes-agent/pull/46535) | 🔄 Open | — | Fallback providers when OAuth token refresh returns 429 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [#46519](https://github.com/NousResearch/hermes-agent/pull/46519) | 🔄 Open | — | Strip duplicate description prefix and fix over-limit descriptions |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [#37959](https://github.com/NousResearch/hermes-agent/pull/37959) | 🔄 Open | — | Add Pinecone skill for agent RAG and memory |
+| [github/awesome-copilot](https://github.com/github/awesome-copilot) | [#1939](https://github.com/github/awesome-copilot/pull/1939) | ✅ Merged | 2026-06-12 | Add Pinecone RAG skill for pipelines and agent memory |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | [#173](https://github.com/K-Dense-AI/scientific-agent-skills/pull/173) | 🔄 Open | — | Add Pinecone skill for scientific RAG persistence layer |
 
 ---
 
