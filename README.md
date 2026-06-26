@@ -180,7 +180,7 @@ My work bridges research and deployment — I build things that run in productio
 
 ---
 
-## 🌍 Open Source Contributions (May — 2026-06-26)
+## 🌍 Open Source Contributions
 
 Repository | PR | State | Merged / Closed Date | One-line summary
 ---|---:|:---:|:---:|---
