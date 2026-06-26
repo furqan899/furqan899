@@ -184,11 +184,13 @@ My work bridges research and deployment — I build things that run in productio
 
 | Repository | Stars | Contribution |
 |---|---|---|
-| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | ![](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=flat-square) | Multiple merged PRs — NVIDIA STT bug fix + memory service reliability fix in this real-time Voice AI framework |
-| [mem0ai/mem0](https://github.com/mem0ai/mem0) | ![](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square) | PR #5573 — Semantic entity typing with sync/async parity in the entity store; reviewed & approved by maintainers |
-| [github/awesome-copilot](https://github.com/github/awesome-copilot) | ![](https://img.shields.io/github/stars/github/awesome-copilot?style=flat-square) | Merged contribution |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | ![](https://img.shields.io/github/stars/k-dense-ai/scientific-agent-skills?style=flat-square) | PR #173 — Pinecone vector database skill with hybrid search & scientific embedding models |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ![](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square) | PR #37959 — Pinecone RAG skill adapted for the Hermes agent schema |
+| [mem0ai/mem0](https://github.com/mem0ai/mem0) | ![](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square) | #5573 — spaCy semantic entity types in entity store (sync/async parity, 2-round technical review); #5717 — fixed silent failure logging across all 5 reranker providers |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | ![](https://img.shields.io/github/stars/infiniflow/ragflow?style=flat-square) | #16330 — fixed PubMed tool always returning "Unknown Authors" (XML scoping bug); #16332 — fixed DeepL component failing validation and swallowing errors silently |
+| [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | ![](https://img.shields.io/github/stars/deepset-ai/haystack?style=flat-square) | #11755 — fixed unknown tool names crashing human_in_the_loop confirmation strategies |
+| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | ![](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=flat-square) | #4718 — fixed NVIDIA STT service bug; maintainer: "Nice catch! 🙏" |
+| [github/awesome-copilot](https://github.com/github/awesome-copilot) | ![](https://img.shields.io/github/stars/github/awesome-copilot?style=flat-square) | #1939 — Pinecone RAG skill for production pipelines and agent memory; reviewed and merged by Aaron Powell (GitHub) |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | ![](https://img.shields.io/github/stars/k-dense-ai/scientific-agent-skills?style=flat-square) | #173 — Pinecone skill with hybrid search, multimodal retrieval, and scientific embedding model reference |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ![](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square) | #37959 — Pinecone RAG skill for agent memory and retrieval |
 
 ---
 
