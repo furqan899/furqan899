@@ -19,7 +19,7 @@
 
 ## About
 
-I'm an AI Engineer with 2+ years of focused experience building **RAG systems, LLM applications, and Voice AI agents** for real clients across automotive, education, defense, and enterprise SaaS.
+I'm an AI Engineer with 2.5 years of focused experience building **RAG systems, LLM applications, and Voice AI agents** for real clients across automotive, education, defense, and enterprise SaaS.
 
 My work bridges research and deployment — I build things that run in production, not just demos. I specialize in:
 
