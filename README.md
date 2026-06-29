@@ -27,6 +27,7 @@ My work bridges research and deployment — I build things that run in productio
 - 🎙 **Voice AI Agents** — real-time conversational agents using ElevenLabs, VAPI, Retell AI, Deepgram, and Twilio
 - ⚙️ **Backend & APIs** — FastAPI, Django REST, Node.js, AWS, Docker
 
+
 ---
 
 ## 🚀 Featured Projects
@@ -181,34 +182,22 @@ My work bridges research and deployment — I build things that run in productio
 
 ## 🌍 Open Source Contributions
 
-| Repository | PR | State | Date | Summary |
-|---|---:|:---:|:---:|---|
-| [mem0ai/mem0](https://github.com/mem0ai/mem0) | [#5717](https://github.com/mem0ai/mem0/pull/5717) | ✅ Merged | 2026-06-24 | Log reranker failures instead of silently swallowing them (all 5 providers) |
-| [mem0ai/mem0](https://github.com/mem0ai/mem0) | [#5715](https://github.com/mem0ai/mem0/pull/5715) | ✅ Merged | 2026-06-25 | Score HuggingFace reranker with sigmoid instead of min-max |
-| [mem0ai/mem0](https://github.com/mem0ai/mem0) | [#5573](https://github.com/mem0ai/mem0/pull/5573) | 🔄 Open | — | Add spaCy semantic entity types to the entity store |
-| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | [#16332](https://github.com/infiniflow/ragflow/pull/16332) | ✅ Merged | 2026-06-25 | Fix DeepL component validation and silent error dropping |
-| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | [#16330](https://github.com/infiniflow/ragflow/pull/16330) | ✅ Merged | 2026-06-25 | Fix PubMed tool author parsing (no longer returns "Unknown Authors") |
-| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | [#16331](https://github.com/infiniflow/ragflow/pull/16331) | 🔄 Open | — | Fix Switch crashing when upstream variable is None |
-| [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | [#11755](https://github.com/deepset-ai/haystack/pull/11755) | ✅ Merged | 2026-06-25 | Handle unknown tool names in `human_in_the_loop` confirmation strategies |
-| [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | [#11758](https://github.com/deepset-ai/haystack/pull/11758) | 🔄 Open | — | Prevent silent clobbering of tool execution decisions on name collisions |
-| [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | [#11760](https://github.com/deepset-ai/haystack/pull/11760) | 🔄 Open | — | Support negative indices in `_ToolsetWrapper.__getitem__` |
-| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4843](https://github.com/pipecat-ai/pipecat/pull/4843) | ✅ Merged | 2026-06-23 | Fix Mem0MemoryService injecting empty memory prompt when none found |
-| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4840](https://github.com/pipecat-ai/pipecat/pull/4840) | ✅ Merged | 2026-06-23 | Fix WorkerBus dropping future messages to a subscriber after a hook raises |
-| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4718](https://github.com/pipecat-ai/pipecat/pull/4718) | ✅ Merged | 2026-06-17 | Add missing defaults for NvidiaSegmentedSTTService diarization settings |
-| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4841](https://github.com/pipecat-ai/pipecat/pull/4841) | 🔄 Open | — | Fix bus adapters dropping ToolsSchema.custom_tools during serialization |
-| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4720](https://github.com/pipecat-ai/pipecat/pull/4720) | 🔄 Open | — | Fix GladiaSTTService ignoring runtime settings updates |
-| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4738](https://github.com/pipecat-ai/pipecat/pull/4738) | 🔄 Open | — | Fix DeepgramSageMakerSTTService ignoring runtime settings updates |
-| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4740](https://github.com/pipecat-ai/pipecat/pull/4740) | 🔄 Open | — | Fix DeepgramSageMakerTTSService ignoring runtime settings updates |
-| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4745](https://github.com/pipecat-ai/pipecat/pull/4745) | 🔄 Open | — | Fix GeminiLiveLLMService ignoring runtime settings updates |
-| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | [#2567](https://github.com/arc53/DocsGPT/pull/2567) | 🔄 Open | — | Migrate AnthropicLLM from deprecated completions API to messages API |
-| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | [#2566](https://github.com/arc53/DocsGPT/pull/2566) | 🔄 Open | — | Warn when STT diarization requested but provider doesn't support it |
-| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | [#2565](https://github.com/arc53/DocsGPT/pull/2565) | 🔄 Open | — | Replace print() with logger in encryption.py and classic_rag.py |
-| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | [#2560](https://github.com/arc53/DocsGPT/pull/2560) | 🔄 Open | — | Make ElevenLabs voice_id configurable via settings |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [#46535](https://github.com/NousResearch/hermes-agent/pull/46535) | 🔄 Open | — | Fallback providers when OAuth token refresh returns 429 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [#46519](https://github.com/NousResearch/hermes-agent/pull/46519) | 🔄 Open | — | Strip duplicate description prefix and fix over-limit descriptions |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [#37959](https://github.com/NousResearch/hermes-agent/pull/37959) | 🔄 Open | — | Add Pinecone skill for agent RAG and memory |
-| [github/awesome-copilot](https://github.com/github/awesome-copilot) | [#1939](https://github.com/github/awesome-copilot/pull/1939) | ✅ Merged | 2026-06-12 | Add Pinecone RAG skill for pipelines and agent memory |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | [#173](https://github.com/K-Dense-AI/scientific-agent-skills/pull/173) | 🔄 Open | — | Add Pinecone skill for scientific RAG persistence layer |
+> 12 merged PRs across 5 major AI/ML frameworks — June 2026
+
+| Repository | PR | Merged | What was fixed |
+|---|---:|:---:|---|
+| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4718](https://github.com/pipecat-ai/pipecat/pull/4718) | Jun 17 | Add missing defaults for NvidiaSegmentedSTTService diarization settings |
+| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4840](https://github.com/pipecat-ai/pipecat/pull/4840) | Jun 23 | Fix WorkerBus dropping future messages to a subscriber after a hook raises |
+| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4843](https://github.com/pipecat-ai/pipecat/pull/4843) | Jun 23 | Fix Mem0MemoryService injecting empty memory prompt when none found |
+| [github/awesome-copilot](https://github.com/github/awesome-copilot) | [#1939](https://github.com/github/awesome-copilot/pull/1939) | Jun 12 | Add Pinecone RAG skill for pipelines and agent memory |
+| [mem0ai/mem0](https://github.com/mem0ai/mem0) | [#5717](https://github.com/mem0ai/mem0/pull/5717) | Jun 24 | Fix silent reranking failures across all 5 reranker providers |
+| [mem0ai/mem0](https://github.com/mem0ai/mem0) | [#5715](https://github.com/mem0ai/mem0/pull/5715) | Jun 25 | Fix HuggingFace reranker scoring — sigmoid instead of min-max normalization |
+| [mem0ai/mem0](https://github.com/mem0ai/mem0) | [#5960](https://github.com/mem0ai/mem0/pull/5960) | Jun 29 | Fix FAISS cosine search — normalize vectors for IndexFlatIP |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | [#16330](https://github.com/infiniflow/ragflow/pull/16330) | Jun 25 | Fix PubMed tool author parsing (no longer returns "Unknown Authors") |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | [#16332](https://github.com/infiniflow/ragflow/pull/16332) | Jun 25 | Fix DeepL component validation and silent error dropping |
+| [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | [#11755](https://github.com/deepset-ai/haystack/pull/11755) | Jun 25 | Handle unknown tool names in `human_in_the_loop` confirmation strategies |
+| [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | [#11795](https://github.com/deepset-ai/haystack/pull/11795) | Jun 29 | Raise `FilterError` on unknown metadata filter operators instead of silently passing |
+| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | [#2567](https://github.com/arc53/DocsGPT/pull/2567) | Jun 25 | Migrate AnthropicLLM from deprecated completions API to messages API |
 
 ---
 
