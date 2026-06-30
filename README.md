@@ -181,11 +181,12 @@ My work bridges research and deployment — I build things that run in productio
 ---
 
 ## 🌍 Open Source Contributions
-
-> 12 merged PRs across 5 major AI/ML frameworks — June 2026
-
+ 
+> 13 merged PRs across 6 major AI/ML frameworks — June 2026
+ 
 | Repository | PR | Merged | What was fixed |
 |---|---:|:---:|---|
+| [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | [#6113](https://github.com/pydantic/pydantic-ai/pull/6113) | Jun 30 | Guard `TogetherProvider.model_profile` against model names without a `/` |
 | [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4718](https://github.com/pipecat-ai/pipecat/pull/4718) | Jun 17 | Add missing defaults for NvidiaSegmentedSTTService diarization settings |
 | [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4840](https://github.com/pipecat-ai/pipecat/pull/4840) | Jun 23 | Fix WorkerBus dropping future messages to a subscriber after a hook raises |
 | [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4843](https://github.com/pipecat-ai/pipecat/pull/4843) | Jun 23 | Fix Mem0MemoryService injecting empty memory prompt when none found |
@@ -198,7 +199,7 @@ My work bridges research and deployment — I build things that run in productio
 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | [#11755](https://github.com/deepset-ai/haystack/pull/11755) | Jun 25 | Handle unknown tool names in `human_in_the_loop` confirmation strategies |
 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | [#11795](https://github.com/deepset-ai/haystack/pull/11795) | Jun 29 | Raise `FilterError` on unknown metadata filter operators instead of silently passing |
 | [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | [#2567](https://github.com/arc53/DocsGPT/pull/2567) | Jun 25 | Migrate AnthropicLLM from deprecated completions API to messages API |
-
+ 
 ---
 
 ## 🤝 Work With Me
