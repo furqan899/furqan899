@@ -27,6 +27,7 @@ My work bridges research and deployment — I build things that run in productio
 - 🎙 **Voice AI Agents** — real-time conversational agents using ElevenLabs, VAPI, Retell AI, Deepgram, and Twilio
 - ⚙️ **Backend & APIs** — FastAPI, Django REST, Node.js, AWS, Docker
 
+Open to **AI/ML roles and research collaborations**.
 
 ---
 
@@ -181,25 +182,30 @@ My work bridges research and deployment — I build things that run in productio
 ---
 
 ## 🌍 Open Source Contributions
- 
-> 13 merged PRs across 6 major AI/ML frameworks — June 2026
- 
+
+> 18 merged PRs across 7 major AI/ML frameworks — 2026
+
 | Repository | PR | Merged | What was fixed |
 |---|---:|:---:|---|
 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | [#6113](https://github.com/pydantic/pydantic-ai/pull/6113) | Jun 30 | Guard `TogetherProvider.model_profile` against model names without a `/` |
+| [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | [#6111](https://github.com/pydantic/pydantic-ai/pull/6111) | Jul 3 | Align `LLMJudge._build_prompt` section order with its few-shot examples |
 | [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4718](https://github.com/pipecat-ai/pipecat/pull/4718) | Jun 17 | Add missing defaults for NvidiaSegmentedSTTService diarization settings |
 | [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4840](https://github.com/pipecat-ai/pipecat/pull/4840) | Jun 23 | Fix WorkerBus dropping future messages to a subscriber after a hook raises |
 | [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | [#4843](https://github.com/pipecat-ai/pipecat/pull/4843) | Jun 23 | Fix Mem0MemoryService injecting empty memory prompt when none found |
-| [github/awesome-copilot](https://github.com/github/awesome-copilot) | [#1939](https://github.com/github/awesome-copilot/pull/1939) | Jun 12 | Add Pinecone RAG skill for pipelines and agent memory |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | [#5717](https://github.com/mem0ai/mem0/pull/5717) | Jun 24 | Fix silent reranking failures across all 5 reranker providers |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | [#5715](https://github.com/mem0ai/mem0/pull/5715) | Jun 25 | Fix HuggingFace reranker scoring — sigmoid instead of min-max normalization |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | [#5960](https://github.com/mem0ai/mem0/pull/5960) | Jun 29 | Fix FAISS cosine search — normalize vectors for IndexFlatIP |
 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | [#16330](https://github.com/infiniflow/ragflow/pull/16330) | Jun 25 | Fix PubMed tool author parsing (no longer returns "Unknown Authors") |
 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | [#16332](https://github.com/infiniflow/ragflow/pull/16332) | Jun 25 | Fix DeepL component validation and silent error dropping |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | [#16419](https://github.com/infiniflow/ragflow/pull/16419) | Jul 1 | Fix GoogleScholar agent tool returning empty JSON and ignoring `top_n` |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | [#16415](https://github.com/infiniflow/ragflow/pull/16415) | Jul 3 | Port Crawler to ToolBase so it can load and run as an Agent tool |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | [#16417](https://github.com/infiniflow/ragflow/pull/16417) | Jul 3 | Port AkShare to ToolBase so it works as an Agent tool |
 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | [#11755](https://github.com/deepset-ai/haystack/pull/11755) | Jun 25 | Handle unknown tool names in `human_in_the_loop` confirmation strategies |
 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | [#11795](https://github.com/deepset-ai/haystack/pull/11795) | Jun 29 | Raise `FilterError` on unknown metadata filter operators instead of silently passing |
 | [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | [#2567](https://github.com/arc53/DocsGPT/pull/2567) | Jun 25 | Migrate AnthropicLLM from deprecated completions API to messages API |
- 
+| [github/awesome-copilot](https://github.com/github/awesome-copilot) | [#1939](https://github.com/github/awesome-copilot/pull/1939) | Jun 12 | Add Pinecone RAG skill for pipelines and agent memory |
+| [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) | [#3478](https://github.com/emmabostian/developer-portfolios/pull/3478) | Apr 8 | Add Muhammad Furqan to the developer portfolios list |
+
 ---
 
 ## 🤝 Work With Me
